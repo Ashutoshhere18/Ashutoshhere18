@@ -1,77 +1,133 @@
 
-# 👋 Hi, I'm **Mishra Ashutosh**
+👋 Ashutosh Mishra
 
-💻 **BCA Student | Aspiring Full Stack Developer (MERN)**
-🌟 Passionate about building scalable web applications & exploring modern technologies
-🌱 **Currently learning Backend: Node.js & MongoDB**
-📌 **Motto:** *Learning. Building. Innovating.*
+MERN Stack Developer
+BCA Student | Incoming Software Development Intern
+
+I build structured, scalable web applications with a focus on clean architecture and maintainable code. With a strong frontend foundation and growing backend expertise, I am actively developing full-stack applications using the MERN stack.
+
+Starting April 2026, I will be working as a Software Development Intern at Day Dream Soft, gaining hands-on industry experience while continuing to strengthen backend fundamentals and production-ready development practices.
+
 
 ---
 
-## 🔧 Tech Stack
+Tech Stack
 
-**Frontend (Proficient):**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react\&logoColor=black)
+Frontend
+HTML5 • CSS3 • JavaScript (ES6+) • React.js • Redux Toolkit
 
-**Backend (Currently Learning):**
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb\&logoColor=white)
+Backend
+Node.js • Express.js • MongoDB
 
-**Tools & Platforms:**
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code\&logoColor=white)
+Tools
+Git • GitHub • VS Code • Postman • REST APIs
+
 
 ---
 
-## 📈 GitHub Stats
+Selected Projects
 
-![Ashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashutoshhere18\&show_icons=true\&theme=transparent\&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutoshhere18\&layout=compact\&theme=transparent)
+Chat Application (React + Redux Toolkit)
+
+A real-time chat interface simulating modern messaging platforms with centralized state management and dynamic UI rendering.
+
+Key Contributions
+
+Implemented global state management using Redux Toolkit
+
+Managed real-time message flow and user session state
+
+Optimized component rendering for smooth performance
+
+Designed responsive and structured UI
+
+
+GitHub: 
+
 
 ---
 
-## 🌟 Featured Projects
+Todos REST API (Node.js + Express)
 
-| Project                            | Description                                                    | Live Demo                                                 | Code                                                      |
-| ---------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- |
-| **Quote Generator**                | Random quote generator using Vanilla JS & DOM manipulation     | [Live](https://Ashutoshhere18.github.io/quote-generator/) | [Repo](https://github.com/Ashutoshhere18/quote-generator) |
-| **React Todo App**                 | Fully functional Todo list with React Hooks & state management | [Live](https://your-live-link.com)                        | [Repo](https://github.com/Ashutoshhere18/react-todo)      |
-| **Portfolio Website (React, WIP)** | Personal portfolio showcasing projects & skills                | 🚧 Coming Soon                                            | [Repo](https://github.com/Ashutoshhere18/portfolio)       |
+A lightweight RESTful API built to demonstrate backend fundamentals and scalable routing architecture.
+
+Key Contributions
+
+Developed complete CRUD functionality
+
+Structured modular routing and controller logic
+
+Implemented request validation and centralized error handling
+
+Designed clean and maintainable backend structure
+
+
+GitHub: 
+
 
 ---
 
-🚀 Learning Journey
+Blog-Web (Full Stack MERN Application)
 
-Jan 2025 — Initiated with HTML & CSS, built static webpages
+A production-style blogging platform reflecting real-world SaaS-style architecture and secure authentication workflows.
 
-Feb 2025 — Mastered core JavaScript (ES6, DOM manipulation, events)
+Key Features
 
-Apr 2025 — Developed interactive JS projects (Quote Generator, Calculator)
+OTP-based email verification
 
-Jun 2025 — Explored advanced JS concepts: Async, APIs, Modules
+Secure authentication and protected routes
 
-Aug–Nov 2025 — Started React.js, learned components, hooks, and state management
+Image upload integration
 
-Dec 2025 — Completed React.js, built React projects and portfolio
+Complete CRUD blog management system
 
-Currently Learning — Node.js & MongoDB for backend and full-stack MERN development
----
+RESTful communication between frontend and backend
 
-## 🐍 Contribution Activity
+Structured database schema design
 
-![snake gif](https://github.com/Ashutoshhere18/Ashutoshhere18/blob/output/github-contribution-grid-snake.svg)
 
----
+GitHub: 
 
-## 📫 Connect With Me
-
-* 💼 [LinkedIn](https://linkedin.com/in/ashutosh-mishra-26633334b)
-* 📧 Email: **[mishraashutoshwk@gmail.com](mailto:mishraashutoshwk@gmail.com)**
 
 ---
 
+Development Approach
 
+Emphasis on clean, readable code
+
+Structured folder architecture
+
+Scalable backend design principles
+
+Practical implementation over theory
+
+Continuous improvement through real-world building
+
+
+
+---
+
+Current Focus
+
+Strengthening backend system design
+
+Improving API architecture and database structuring
+
+Writing production-ready full-stack applications
+
+Gaining industry exposure through internship
+
+
+
+---
+
+Contact
+
+LinkedIn
+https://linkedin.com/in/ashutosh-mishra-26633334b
+
+Email
+mishraashutoshwk@gmail.com
+
+
+---
