@@ -42,7 +42,7 @@ Optimized component rendering for smooth performance
 Designed responsive and structured UI
 
 
-GitHub: 
+GitHub: https://github.com/Ashutoshhere18/React-Js/tree/main/chat-app
 
 
 ---
