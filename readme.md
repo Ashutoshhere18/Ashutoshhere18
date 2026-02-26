@@ -46,18 +46,6 @@ A full-stack MERN application for managing user complaints efficiently. Users ca
 
 **Key Features**
 
-Perfect Ashu 😎 — ye **Admin Panel / Complaint Management System** ka content already detailed aur professional hai.
-
-Tumhare **main GitHub README** me Todos API ke jagah ye replace karne ke liye thoda **short aur clean version** banate hain, jo recruiter-friendly ho aur Chat-App + Blog-Web ke vibe ke saath match kare:
-
----
-
-### Complaint Management System (Admin Panel)
-
-A full-stack MERN application for managing user complaints efficiently. Users can raise complaints, track status, and update profiles, while admins can view, filter, and update complaints, set priorities, and monitor dashboard metrics.
-
-**Key Features**
-
 **User:**
 
 * Register & Login
