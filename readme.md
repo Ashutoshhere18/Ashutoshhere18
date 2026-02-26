@@ -36,23 +36,45 @@ A real-time chat interface simulating modern messaging platforms with centralize
 * Optimized component rendering for smooth performance
 * Designed responsive and structured UI
 
-GitHub: (Add repository link)
-Live Demo: (Add deployment link if available)
+GitHub: https://github.com/Ashutoshhere18/chat-application
 
 ---
 
-### Todos REST API (Node.js + Express)
+### Complaint Management System (Admin Panel)
 
-A lightweight RESTful API built to demonstrate backend fundamentals and scalable routing architecture.
+A full-stack MERN application for managing user complaints efficiently. Users can raise complaints, track status, and update profiles, while admins can view, filter, and update complaints, set priorities, and monitor dashboard metrics.
 
-**Key Contributions**
+**Key Features**
 
-* Developed complete CRUD functionality
-* Structured modular routing and controller logic
-* Implemented request validation and centralized error handling
-* Designed clean and maintainable backend structure
+Perfect Ashu 😎 — ye **Admin Panel / Complaint Management System** ka content already detailed aur professional hai.
 
-GitHub: (Add repository link)
+Tumhare **main GitHub README** me Todos API ke jagah ye replace karne ke liye thoda **short aur clean version** banate hain, jo recruiter-friendly ho aur Chat-App + Blog-Web ke vibe ke saath match kare:
+
+---
+
+### Complaint Management System (Admin Panel)
+
+A full-stack MERN application for managing user complaints efficiently. Users can raise complaints, track status, and update profiles, while admins can view, filter, and update complaints, set priorities, and monitor dashboard metrics.
+
+**Key Features**
+
+**User:**
+
+* Register & Login
+* Create, view, and track complaints
+* Update profile
+
+**Admin:**
+
+* View all complaints & filter by department
+* Update status & set priority
+* Dashboard overview
+
+**Tech Stack:**
+Frontend: React.js, React Router, Bootstrap 5, Axios
+Backend: Node.js, Express.js, MongoDB, Mongoose, JWT Authentication
+
+GitHub: https://github.com/Ashutoshhere18/admin-panel
 
 ---
 
@@ -69,7 +91,7 @@ A production-style blogging platform reflecting real-world SaaS-style architectu
 * RESTful communication between frontend and backend
 * Structured database schema design
 
-GitHub: (Add repository link)
+GitHub: https://github.com/Ashutoshhere18/blog-web
 
 ---
 
