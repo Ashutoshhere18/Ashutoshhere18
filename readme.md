@@ -7,6 +7,7 @@ BCA Student | Software Development Intern
 I build structured, scalable web applications with a focus on clean architecture and maintainable code. With a strong frontend foundation and growing backend expertise, I am actively developing full-stack applications using the MERN stack.
 
 Currently, I am working as a Software Development Intern at DayDreamSoft Infotech LLP (since April 2026), where I am gaining hands-on industry experience. During this 6-month internship, I am strengthening my backend fundamentals and working on building production-ready applications while following industry best practices.
+
 ---
 
 ## Tech Stack
