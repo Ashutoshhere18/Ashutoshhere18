@@ -101,6 +101,14 @@ GitHub: https://github.com/Ashutoshhere18/blog-web
 * Gaining industry exposure through internship
 
 ---
+## 🔗 Internship Work (DayDreamSoft)
+
+For structured learning and internship-based practice, I maintain a separate GitHub account:
+
+🔹 DDS GitHub: https://github.com/AT-dev-dds  
+🔹 React Learning Repo: https://github.com/AT-dev-dds/react-learning
+
+---
 
 ## Contact
 
